@@ -63,6 +63,7 @@ Below is a collage of six images along with their generated captions:
     </td>
   </tr>
 </table>
+
 ## Contributing
 
 Contributions are welcome! If you have major changes in mind, please open an issue first to discuss your ideas. 
