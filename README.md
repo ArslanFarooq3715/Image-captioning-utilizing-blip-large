@@ -40,17 +40,17 @@ Below is a collage of six images along with their generated captions:
 | ![1011.jpg](images/image_065.png) | A tortoise on a white background. |
 | ![1014.jpg](images/image_065.png) | A glass of wine sitting on top of a table. |
 | ![064.jpg](images/image_064.png) | A painting of a little girl with a bird on her head. |
-| ![065.jpg](images/image_065.png) | A painting of a woman with glasses looking at the camera. |
+| ![065.jpg](images/image_065.png) |  |
 
 <table>
   <tr>
     <td>
-      <img src="images/image_019.png" alt="Cheese with Figs" width="300">
+      <img src="images/image_019.png" alt="" width="250" height="200">
       <p>A woman in a costume holding two swords.</p>
     </td>
     <td>
-      <img src="datasets/1002_small.jpg" alt="Yellow Flower" width="250" height="200">
-      <p>A close-up of a yellow flower with a green background.</p>
+      <img src="images/image_065.png" alt="" width="250" height="200">
+      <p>A painting of a woman with glasses looking at the camera.</p>
     </td>
   </tr>
   <tr>
