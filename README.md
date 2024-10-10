@@ -34,42 +34,42 @@ Below is a collage of six images along with their generated captions:
 | Image | Caption |
 |-------|---------|
 | ![019.jpg](images/image_019.png) |  |
-| ![056.jpg](images/image_056.png) | A digital painting of a man with a futuristic face. |
-| ![010.jpg](images/image_010.png) | A woman in a cat mask holding a sword. |
+| ![056.jpg]() |  |
+| ![010.jpg](images/image_010.png) |  |
 | ![1008.jpg](images/image_065.png) | A teacher standing in front of a classroom full of children. |
 | ![1011.jpg](images/image_065.png) | A tortoise on a white background. |
 | ![1014.jpg](images/image_065.png) | A glass of wine sitting on top of a table. |
-| ![064.jpg](images/image_064.png) | A painting of a little girl with a bird on her head. |
+| ![064.jpg](images/image_064.png) |  |
 | ![065.jpg](images/image_065.png) |  |
 
 <table>
   <tr>
     <td>
-      <img src="images/image_019.png" alt="" width="250" height="200">
+      <img src="images/image_019.png" alt="" width="250" height="250">
       <p>A woman in a costume holding two swords.</p>
     </td>
     <td>
-      <img src="images/image_065.png" alt="" width="250" height="200">
+      <img src="images/image_065.png" alt="" width="250" height="250">
       <p>A painting of a woman with glasses looking at the camera.</p>
     </td>
   </tr>
   <tr>
     <td>
-      <img src="datasets/1005_small.jpg" alt="Colorful Flowers" width="300">
-      <p>A planter filled with lots of colorful flowers.</p>
+      <img src="images/image_064.png" alt="" width="250" height="250">
+      <p>A painting of a little girl with a bird on her head.</p>
     </td>
     <td>
-      <img src="datasets/1008_small.jpg" alt="Teacher and Students" width="300">
-      <p>A teacher standing in front of a classroom full of children.</p>
+      <img src="images/image_010.png" alt="" width="250" height="250">
+      <p>A woman in a cat mask holding a sword.</p>
     </td>
   </tr>
   <tr>
     <td>
-      <img src="datasets/1011_small.jpg" alt="Tortoise" width="300">
-      <p>A tortoise on a white background.</p>
+      <img src="images/image_056.png" alt="" width="250" height="250">
+      <p>A digital painting of a man with a futuristic face.</p>
     </td>
     <td>
-      <img src="datasets/1014_small.jpg" alt="Glass of Wine" width="300">
+      <img src="datasets/1014_small.jpg" alt="" width="250" height="250">
       <p>A glass of wine sitting on top of a table.</p>
     </td>
   </tr>
