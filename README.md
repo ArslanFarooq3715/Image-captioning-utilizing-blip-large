@@ -31,17 +31,6 @@ python inference.py -i /path/images/folder --batch 8 --gpu 0
 
 Below is a collage of six images along with their generated captions:
 
-| Image | Caption |
-|-------|---------|
-| ![019.jpg](images/image_019.png) |  |
-| ![056.jpg]() |  |
-| ![010.jpg](images/image_010.png) |  |
-| ![1008.jpg](images/image_065.png) | A teacher standing in front of a classroom full of children. |
-| ![1011.jpg](images/image_065.png) | A tortoise on a white background. |
-| ![1014.jpg](images/image_065.png) | A glass of wine sitting on top of a table. |
-| ![064.jpg](images/image_064.png) |  |
-| ![065.jpg](images/image_065.png) |  |
-
 <table>
   <tr>
     <td>
@@ -69,8 +58,8 @@ Below is a collage of six images along with their generated captions:
       <p>A digital painting of a man with a futuristic face.</p>
     </td>
     <td>
-      <img src="datasets/1014_small.jpg" alt="" width="250" height="250">
-      <p>A glass of wine sitting on top of a table.</p>
+      <img src="/images/image_006.png" alt="" width="250" height="250">
+      <p>A robot with a helmet and goggles on</p>
     </td>
   </tr>
 </table>
