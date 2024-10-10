@@ -49,7 +49,7 @@ Below is a collage of six images along with their generated captions:
       <p>A woman in a costume holding two swords.</p>
     </td>
     <td>
-      <img src="datasets/1002_small.jpg" alt="Yellow Flower" width="300">
+      <img src="datasets/1002_small.jpg" alt="Yellow Flower" width="250" height="250">
       <p>A close-up of a yellow flower with a green background.</p>
     </td>
   </tr>
